@@ -3,7 +3,7 @@
 The project runs Mindy, the Mindfulness Coach To run the project, run **'main.py'** from the path **'Mindy_The_Mindfulness_Coach/Mindy'**
 
 ## Please read more about our project here:
-[Full academic report:]([https://github.com/ZarinTasnimBiash/Mindy_The_Mindfulness_Coach/blob/main/Intelligent_Interactive_Systems_Project_Paper.pdf])
+[Full academic report:](https://github.com/ZarinTasnimBiash/Mindy_The_Mindfulness_Coach/blob/main/Intelligent_Interactive_Systems_Project_Paper.pdf)
 
 **Link to the blog:** https://medium.com/@rjmrohit94/challenges-in-building-a-social-robot-ec94ec6fae29
 
