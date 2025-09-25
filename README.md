@@ -5,4 +5,4 @@ Link to the blog: https://medium.com/@rjmrohit94/challenges-in-building-a-socia
 
 
 
-![Mindy: The Mindfulness Coach](images/mindy.jpeg)
+![Mindy: The Mindfulness Coach](mindy.jpeg)
